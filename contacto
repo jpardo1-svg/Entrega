@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto</title>
+    <link rel="stylesheet" src="C:\Users\pc\Documents\Entrega final CSS\CSS\style.css">
+</head>
+<body>
+    <a href="#main-content" class="skip-link">Saltar al contenido principal</a>
+
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="galeria.html">Galería</a></li>
+                <li class="current"><a href="contacto.html">Contacto</a></li>
+            </ul>
+        </nav>
+        <h1>Contáctame</h1>
+    </header>
+
+    <main id="main-content">
+        <h2>Envíame un mensaje</h2>
+        <p>Puedes contactarme a través de la información que se muestra a continuación.</p>
+        <p>Correo electrónico: ejemplo@correo.com</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Mi Sitio Web. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
